@@ -1,4 +1,4 @@
-Solution for detecting the iris and pupil from eye images, unwrapping the iris into a rectangular form, and generating the iris code based on biometric processing methods.
+Solution for detecting the iris and pupil from eye images, unwrapping the iris into a rectangular form, and generating the iris code based on the Gabor wavelet transforms.
 
 ## Description of project
 
